@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kaan ÇOLAK.
 
-## Computer Engineer / Junior Full Stack Developer.
+## Computer Engineer / Junior Full Stack Developer
 
 - 🔭 I’m currently working on several projects
 - 🌱 I’m currently learning Full Stack Developer Tools
