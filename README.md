@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Kaan ÇOLAK.
 
-<!--
-**kaanxcolak/kaanxcolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Engineer / Full Stack Developer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on several projects
+- 🌱 I’m currently learning Full Stack Developer Tools
+- 🏠 I’m living in Istanbul now
+- 📫 How to reach me: kaancolak3458@gmail.com
+- 😂 Pronouns: He/His
+- ⚡ Fun fact: I love listening Turkish and Greek musics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏰👨‍🏫🪄⚗️🐍 Potterhead 💘
+
