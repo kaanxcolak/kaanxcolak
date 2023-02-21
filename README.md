@@ -7,7 +7,7 @@
 - 🏠 I’m living in Istanbul now
 - 📫 How to reach me: kaancolak3458@gmail.com
 - 😂 Pronouns: He/His
-- ⚡ Fun fact: I love listening Turkish and Greek musics
+- ⚡ Fun fact: I love listening Traditional musics
 
 - 🏰👨‍🏫🪄⚗️🐍 Potterhead 💘
 
