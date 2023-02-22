@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kaan ÇOLAK.
 
-## Computer Engineer / Junior Frontend Developer
+## Computer Engineer / Software Developer
 
 - 🔭 I’m currently working on several projects
 - 🌱 I’m currently learning Frontend Developer Tools
