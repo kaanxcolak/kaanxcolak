@@ -3,7 +3,7 @@
 ## Computer Engineer / Software Developer
 
 - 🔭 I’m currently working on several projects
-- 🌱 I’m currently learning Frontend Developer Tools
+- 🌱 I’m currently learning Software Developer Tools
 - 🏠 I’m living in Istanbul now
 - 📫 How to reach me: kaancolak3458@gmail.com
 - 😂 Pronouns: He/His
